@@ -1,0 +1,9 @@
+{
+  "name": "NUVO — Organiza tu escuela",
+  "short_name": "NUVO",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#54b997",
+  "description": "Organizador escolar ligero"
+}
