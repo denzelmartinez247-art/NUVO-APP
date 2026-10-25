@@ -1,9 +1,28 @@
+
 {
-  "name": "NUVO — Organiza tu escuela",
+  "id": "./",
+  "name": "NUVO - Organizador Escolar",
   "short_name": "NUVO",
-  "start_url": "./index.html",
+  "description": "Organiza tus tareas, estudios y actividades con NUVO.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
   "display": "standalone",
-  "background_color": "#f5f7fb",
-  "theme_color": "#54b997",
-  "description": "Organizador escolar ligero"
+  "orientation": "portrait",
+  "background_color": "#0B1630",
+  "theme_color": "#0B1630",
+  "icons": [
+    {
+      "src": "./1000000206.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./1000000207.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
 }
